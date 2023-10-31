@@ -1,4 +1,3 @@
-<header>--Work in Progress--</header>
 <h1>Jokes Web App via freeCodeCamp.org</h1>
 <p>This application is an exercise in building a web database application that:<br>
 - Uses the MVC (Model View Controller) design pattern.<br>
