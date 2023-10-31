@@ -10,3 +10,10 @@
 - Creates a search function to filter database results.<br>
 - Uses Simple Authorization to restrict change access.
 </p>
+<br>
+<br>
+<h1>Next Steps</h1>
+<p>
+  1. Include Unit Testing<br>
+  2. Learn to host and deploy to Azure App Service
+</p>
