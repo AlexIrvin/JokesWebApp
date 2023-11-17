@@ -15,5 +15,5 @@
 <h1>Next Steps</h1>
 <p>
   1. Include Unit Testing<br>
-  2. Learn to host and deploy to Azure App Service
+  [&#10003] 2. Learn to host and deploy to Azure App Service - Utilized free Azure credit and experimented with deploying and hosting app. It was an excellent learning experience to host a SQL Database in the cloud and connect it to the application.
 </p>
